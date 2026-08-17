@@ -1,0 +1,14 @@
+# Ignore data files and large artifacts
+data/
+*.parquet
+*.csv
+*.zip
+*.db
+*.db.wal
+*.crdownload
+log.txt
+__pycache__/
+.ipynb_checkpoints/
+
+# Keep the specific images for the README
+!data/final_forecast_comparison.png

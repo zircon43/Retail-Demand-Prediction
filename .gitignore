@@ -12,3 +12,6 @@ __pycache__/
 
 # Keep the specific images for the README
 !data/final_forecast_comparison.png
+
+# Ignore PDFs
+*.pdf
